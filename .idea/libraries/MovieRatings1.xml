@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MovieRatings1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/MovieRatings/MovieRatings.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
